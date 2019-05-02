@@ -4,5 +4,6 @@ profithound{
     font-size: 14px;
     font-weight: 400;
     line-height: 1.4;
-    color: rgb(75, 99, 115);
+    color: rgb(75, 99, 115)!important;
+    z-index: 100000;
 }
